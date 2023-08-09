@@ -1,0 +1,7 @@
+1. From development to production
+2. Compiling
+3. Minifing
+4. Bundling
+5. Code Splitting
+6. Build Time vs. Runtime
+7. Client and Server Rendering 
